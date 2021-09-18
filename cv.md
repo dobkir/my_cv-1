@@ -1,16 +1,13 @@
 ## [rsschool-cv](https://github.com/dobkir/rsschool-cv/cv)
-
-- - -
+----
 
 # Pavel Kirillov
-
-- - -
+====
 
 #### <p style="display: flex; align-items: center;"> ![city icon](https://img.icons8.com/material/24/000000/city.png)&nbsp; Samara, Russian Federation</p> 
 #### <p style="display: flex; align-items: center;"> ![phone icon](https://img.icons8.com/material/24/000000/phone--v1.png) +7-999-172-3022 &nbsp;&nbsp; [![email icon](https://img.icons8.com/material/24/000000/send-mass-email.png)](mailto:p.kirillov2020@gmail.com) dobkir@gmail.com &nbsp;&nbsp; [![telegram icon](https://img.icons8.com/material/24/000000/telegram-app.png)](https://telegram.im/@dobkir) dobkir &nbsp;&nbsp;</p>
-#### <p style="display: flex; align-items: center;"> [![github icon](https://img.icons8.com/material/24/000000/github.png)](https://github.com/dobkir/) dobkir &nbsp;&nbsp; [![linkedin icon](https://img.icons8.com/material/24/000000/linkedin--v1.png)](https://www.linkedin.com/in/pavel-kirillov-dobkir) pavel-kirillov-dobkir &nbsp;&nbsp; [![skype icon](https://img.icons8.com/material/24/000000/skype--v1.png)](https://join.skype.com/invite/zT3dmrW2VgZu){:target="_blank"} dobkir</p>
-
-- - -
+#### <p style="display: flex; align-items: center;"> [![github icon](https://img.icons8.com/material/24/000000/github.png)](https://github.com/dobkir/) dobkir &nbsp;&nbsp; [![linkedin icon](https://img.icons8.com/material/24/000000/linkedin--v1.png)](https://www.linkedin.com/in/pavel-kirillov-dobkir) pavel-kirillov-dobkir &nbsp;&nbsp; [![skype icon](https://img.icons8.com/material/24/000000/skype--v1.png)](https://join.skype.com/invite/zT3dmrW2VgZu) dobkir</p>
+----
 
 ## Soft Skills
 - Very positive personality
