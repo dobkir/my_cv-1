@@ -2,10 +2,13 @@
 
 # Pavel Kirillov
 
-### ![city icon](https://img.icons8.com/material/18/000000/city.png)&nbsp; Samara, Russian Federation
+<!-- CONTACTS -->
 
+### ![city icon](https://img.icons8.com/material/18/000000/city.png)&nbsp; Samara, Russian Federation
 ### [![phone icon](https://img.icons8.com/material/16/000000/phone--v1.png)](tel: +79991723022"){:target="_blank"}+7-999-172-3022 &nbsp;&nbsp; [![email icon](https://img.icons8.com/material/16/000000/send-mass-email.png)](mailto:p.kirillov2020@gmail.com){:target="_blank"}dobkir@gmail.com &nbsp;&nbsp; [![telegram icon](https://img.icons8.com/material/16/000000/telegram-app.png)](https://telegram.im/@dobkir){:target="_blank"}dobkir 
 ### [![github icon](https://img.icons8.com/material/16/000000/github.png)](https://github.com/dobkir/){:target="_blank"}dobkir &nbsp;&nbsp; [![linkedin icon](https://img.icons8.com/material/16/000000/linkedin--v1.png)](https://www.linkedin.com/in/pavel-kirillov-dobkir){:target="_blank"}pavel-kirillov-dobkir &nbsp;&nbsp; [![skype icon](https://img.icons8.com/material/16/000000/skype--v1.png)](https://join.skype.com/invite/zT3dmrW2VgZu){:target="_blank"}dobkir
+
+<!-- SKILLS -->
 
 ## Soft Skills
 - Very positive personality
@@ -31,3 +34,14 @@
 [![NextJS](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=Next.js&logoColor=fff)](https://nextjs.org/)&nbsp;
 [![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=Webpack&logoColor=fff)](https://webpack.js.org/)&nbsp;
 [![Gulp](https://img.shields.io/badge/Gulp-fa383e?style=for-the-badge&logo=Gulp&logoColor=fff)](https://gulpjs.com/)
+
+<!-- CODE EXAMPLE -->
+
+## Code instance
+I can do any magic:
+
+```
+function multiply(a, b){
+  return a * b
+}
+```
