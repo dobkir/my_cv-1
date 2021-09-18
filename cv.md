@@ -62,8 +62,8 @@ Main resources that I was using and use now:<br>
 
 ## English
 I try to improve my English every day. Last test result on efset.org:<br>
-[![English quick test result](/img/english-test-result)](https://www.efset.org/quick-check/)<br>
+[![English quick test result](/img/english-test-result.jpg)](https://www.efset.org/quick-check/)<br>
 
 ---
-Thanks to [ICONS8](https://icons8.com/) and [Img Shields](https://shields.io) for the graphics I use here.<br>
-[![VSCode shield](https://img.shields.io/badge/Made%20with-VSCode-1f425f.svg)](https://code.visualstudio.com/)
+[![VSCode shield](https://img.shields.io/badge/Made%20with-VSCode-1f425f.svg)](https://code.visualstudio.com/)&nbsp;
+Thanks to [ICONS8](https://icons8.com/) and [Img Shields](https://shields.io) for the graphics I use here.
