@@ -45,18 +45,25 @@ function multiply(a, b){
   return a * b
 }
 ```
+<!-- WORK EXPERIENCE -->
+
+## Work experience
+
+To date, my development experience consists of several training projects on my [GitHub](https://github.com/dobkir/){:target="_blank"} can see.
 
 <!-- EDUCATION -->
 
 ## Education
 Everything that I learned in IT, I learned the form of self-education.<br>
 Main resources that I was using and use now:<br>
-[![learn.javascript.ru icon](/learnjs-logo.svg)](https://learn.javascript.ru/)<br>
-[![MDN WebDocs icon](/mdn-logo.svg)](https://developer.mozilla.org/ru/)<br>
-[![Edx icon](/edx-logo.svg)](https://www.edx.org/)
+[![learn.javascript.ru logo](/img/learnjs-logo.svg)](https://learn.javascript.ru/)<br>
+[![MDN WebDocs logo](/img/mdn-logo.svg)](https://developer.mozilla.org/ru/)<br>
+[![Edx logo](/img/edx-logo.svg)](https://www.edx.org/)
 
-<!-- WORK EXPERIENCE -->
+## English
+I try to improve my English every day. Last test result on efset.org:<br>
+[![English quick test result](/img/english-test-result)](https://www.efset.org/quick-check/)<br>
 
-## Work experience
-
-To date, my development experience consists of several training projects on my [GitHub](https://github.com/dobkir/){:target="_blank"} can see.
+---
+Thanks to [ICONS8](https://icons8.com/) and [Img Shields](https://shields.io) for the graphics I use here.<br>
+[![VSCode shield](https://img.shields.io/badge/Made%20with-VSCode-1f425f.svg)](https://code.visualstudio.com/)
