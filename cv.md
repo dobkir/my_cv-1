@@ -1,0 +1,38 @@
+## [rsschool-cv](https://github.com/dobkir/rsschool-cv/cv)
+
+- - -
+
+# Pavel Kirillov
+
+- - -
+
+#### <p style="display: flex; align-items: center;"> ![city icon](https://img.icons8.com/material/24/000000/city.png)&nbsp; Samara, Russian Federation</p> 
+#### <p style="display: flex; align-items: center;"> ![phone icon](https://img.icons8.com/material/24/000000/phone--v1.png) +7-999-172-3022 &nbsp;&nbsp; [![email icon](https://img.icons8.com/material/24/000000/send-mass-email.png)](mailto:p.kirillov2020@gmail.com) dobkir@gmail.com &nbsp;&nbsp; [![telegram icon](https://img.icons8.com/material/24/000000/telegram-app.png)](https://telegram.im/@dobkir) dobkir &nbsp;&nbsp;</p>
+#### <p style="display: flex; align-items: center;"> [![github icon](https://img.icons8.com/material/24/000000/github.png)](https://github.com/dobkir/) dobkir &nbsp;&nbsp; [![linkedin icon](https://img.icons8.com/material/24/000000/linkedin--v1.png)](https://www.linkedin.com/in/pavel-kirillov-dobkir) pavel-kirillov-dobkir &nbsp;&nbsp; [![skype icon](https://img.icons8.com/material/24/000000/skype--v1.png)](https://join.skype.com/invite/zT3dmrW2VgZu){:target="_blank"} dobkir</p>
+
+- - -
+
+## Soft Skills
+- Very positive personality
+- Communicative
+- Fast learner
+- Inquiring
+
+## Hard Skills
+- Main Languages<br>
+[![JavaScript](https://img.shields.io/badge/JavaScript-f1e05a?style=for-the-badge&logo=JavaScript&logoColor=000)](https://javascript.info/)&nbsp;
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178c6?style=for-the-badge&logo=TypeScript&logoColor=white)](https://www.typescriptlang.org/)
+
+- Extra skills<br>
+[![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jQuery&logoColor=white)](https://jquery.com/)&nbsp;
+[![HTML5](https://img.shields.io/badge/HTML5-e34c26?style=for-the-badge&logo=HTML5&logoColor=000)](https://www.w3.org/TR/html52/)&nbsp;
+[![CSS3](https://img.shields.io/badge/CSS3-563d7c?style=for-the-badge&logo=CSS3&logoColor=fff)](https://www.w3.org/Style/CSS/)&nbsp;
+[![Sass](https://img.shields.io/badge/Sass-bf4080?style=for-the-badge&logo=Sass&logoColor=fff)](https://sass-lang.com/)&nbsp;
+[![HandlebarsJS](https://img.shields.io/badge/Handlebars-JS-f0772b?style=for-the-badge&logo=Handlebars-JS&logoColor=fff)](https://handlebarsjs.com/)
+
+- Libraries, frameworks, bundlers<br>
+[![React](https://img.shields.io/badge/React-282c34?style=for-the-badge&logo=React&logoColor=61dafb)](https://reactjs.org/)&nbsp;
+[![Redux](https://img.shields.io/badge/Redux-764abc?style=for-the-badge&logo=Redux&logoColor=fff)](https://redux.js.org/)&nbsp;
+[![NextJS](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=Next.js&logoColor=fff)](https://nextjs.org/)&nbsp;
+[![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=Webpack&logoColor=fff)](https://webpack.js.org/)&nbsp;
+[![Gulp](https://img.shields.io/badge/Gulp-fa383e?style=for-the-badge&logo=Gulp&logoColor=fff)](https://gulpjs.com/)
