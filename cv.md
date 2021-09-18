@@ -45,3 +45,12 @@ function multiply(a, b){
   return a * b
 }
 ```
+
+<!-- EDUCATION -->
+
+## Education
+Everything that I learned in IT, I learned the form of self-education.<br>
+Main resources that I was using and use now:<br>
+[![learn.javascript.ru icon](/learnjs-logo.svg)](https://learn.javascript.ru/)<br>
+[![MDN WebDocs icon](/mdn-logo.svg)](https://developer.mozilla.org/ru/)<br>
+[![Edx icon](/edx-logo.svg)](https://www.edx.org/)
