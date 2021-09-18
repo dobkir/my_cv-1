@@ -54,3 +54,9 @@ Main resources that I was using and use now:<br>
 [![learn.javascript.ru icon](/learnjs-logo.svg)](https://learn.javascript.ru/)<br>
 [![MDN WebDocs icon](/mdn-logo.svg)](https://developer.mozilla.org/ru/)<br>
 [![Edx icon](/edx-logo.svg)](https://www.edx.org/)
+
+<!-- WORK EXPERIENCE -->
+
+## Work experience
+
+To date, my development experience consists of several training projects on my [GitHub](https://github.com/dobkir/){:target="_blank"} can see.
