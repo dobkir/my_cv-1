@@ -15,13 +15,16 @@
   flex-direction: column;
   max-width: 62rem;
   height: 87rem;
-  margin: auto auto;
+  margin: auto;
 
   background-color: var(--dark-color);
   background-image: url(../img/bg-right.png);
   background-repeat: no-repeat;
   background-position: 101% 0;
+  outline: 1px solid rgba(193, 210, 214, 0.5);
 }
+
+/*==================== Header ====================*/
 
 .header {
   flex-basis: 23%;
@@ -55,8 +58,6 @@
   font: var(--header-subtitle-font);
 }
 
-.header__logo {}
-
 .header__avatar {
   order: 1;
   flex-basis: 40%;
@@ -65,7 +66,7 @@
 .avatar {
   width: 16rem;
   height: 16rem;
-  margin: 4rem;
+  margin: 7.5rem 9.5rem 0 0;
 
   border: 1px solid transparent;
   border-radius: 1.6rem;
@@ -84,6 +85,11 @@
   transform: rotate(45deg) scale(1.43);
 }
 
+/*================= End of Header ================*/
+
+
+/*===================== Main =====================*/
+
 .main {
   flex-basis: 67%;
 
@@ -100,13 +106,42 @@
 }
 
 .social__links {
+  list-style: none;
+
+  display: flex;
+  align-items: center;
   margin: 3.3rem 0;
+  padding: 0;
+
+  line-height: 1.2rem;
+}
+
+.social__link {
+  display: flex;
+  margin-right: 2rem;
+
+  font: var(--social-font);
+}
+
+.social__link:hover,
+.social__link:focus {
+  outline: 1px dashed var(--neutral-color);
+}
+
+.social__link--icon {
+  margin-right: 0.5rem;
 }
 
 .aside {
   order: 1;
   flex-basis: 40%;
 }
+
+/*================= End of Main ==================*/
+
+
+
+/*===================== Footer =====================*/
 
 .footer {
   flex-basis: 10%;
@@ -115,3 +150,5 @@
   background-repeat: no-repeat;
   background-position: 0 102%;
 }
+
+/*================== End of Footer =================*/
