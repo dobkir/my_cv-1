@@ -4,9 +4,9 @@
   --neutral-color: #C1D2D6;
   --header-title-font: normal 700 3.8rem/4.6rem "MontserratBold";
   --header-subtitle-font: normal 400 1.8rem/2.2rem "MontserratRegular";
-  --social-font: normal 300 1rem/1.6rem "MontserratLight";
+  --social-font: normal 300 1.1rem/1.6rem "MontserratLight";
   --section-title-font: normal 700 1.85rem/2.9rem "MontserratBold";
   --section-subtitle-font: normal 700 1rem/1.2rem "MontserratBold";
-  --section-text-font: normal 300 1rem/1.2rem "MontserratLight";
-  --aside-text-font: normal 500 1rem/1.2rem "MontserratMedium";
+  --section-text-font: normal 300 1.1rem/1.4rem "MontserratLight";
+  --aside-text-font: normal 500 1.1rem/1.2rem "MontserratMedium";
 }
