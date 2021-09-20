@@ -58,9 +58,7 @@ a:focus {
   display: flex;
   height: 20rem;
 
-  background-image: url(../img/backgrounds/bg-header.png);
-  background-repeat: no-repeat;
-  background-position: 0 100%;
+  background: url(../img/backgrounds/bg-header.png) 0 100% no-repeat;
 }
 
 .header__info {
@@ -310,4 +308,91 @@ a:focus {
 
 .github__link--inline {
   border-bottom: 1px dashed;
+}
+
+/*================== Media =================*/
+
+@media (max-width: 744px) {
+
+  .container {
+    background-image: none;
+  }
+
+  .header {
+    flex-direction: column;
+    height: auto;
+
+    background: none;
+  }
+
+  .header__info {
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+    margin-left: 2.2rem;
+  }
+
+  .header__avatar {
+    margin: 0 5rem 0;
+  }
+
+  .avatar {
+    width: 12rem;
+    height: 12rem;
+    margin: 0;
+    padding: 0;
+  }
+
+  .avatar>img {
+    width: 12rem;
+    height: 12rem;
+  }
+
+  .main {
+    flex-direction: column;
+  }
+
+  .main__article {
+    flex-basis: 50%;
+  }
+
+  .social__link {
+    font-size: 1.2rem;
+    line-height: 2rem;
+  }
+
+  .social__link--icon {
+    width: 2rem;
+    height: 2rem;
+  }
+
+  .main__section--subtitle {
+    font-size: 1.2rem;
+  }
+
+  .main__section--text {
+    font-size: 1.2rem;
+    line-height: 1.8rem;
+  }
+
+  .aside {
+    flex-basis: 50%;
+    width: 100%;
+    margin: 0;
+    padding: 2.2rem;
+
+    background-color: var(--light-color);
+  }
+
+  .footer {
+    justify-content: space-between;
+
+    color: var(--light-color);
+
+    background-image: none;
+    background-color: var(--dark-color);
+  }
+
+  .language {
+    max-width: 27rem;
+  }
 }
