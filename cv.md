@@ -1,4 +1,4 @@
-## [rsschool-cv](https://dobkir.github.io/rsschool-cv/cv)
+## [rsschool-cv](https://dobkir.github.io/rsschool-cv-JavaScript-Front-end2021Q3-/cv)
 
 # Pavel Kirillov
 
