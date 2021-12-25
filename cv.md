@@ -1,4 +1,4 @@
-## [rsschool-cv](https://github.com/dobkir/rsschool-cv/cv)
+## [rsschool-cv](https://dobkir.github.io/rsschool-cv/cv)
 
 # Pavel Kirillov
 
