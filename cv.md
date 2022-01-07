@@ -56,9 +56,9 @@ To date, my development experience consists of several training projects on my [
 ## Education
 Everything that I learned in IT, I learned the form of self-education.<br>
 Main resources that I was using and use now:<br>
-[![learn.javascript.ru logo](/img/learnjs-logo.svg)](https://learn.javascript.ru/)<br>
-[![MDN WebDocs logo](/img/mdn-logo.svg)](https://developer.mozilla.org/ru/)<br>
-[![Edx logo](/img/edx-logo.svg)](https://www.edx.org/)
+[![learn.javascript.ru logo](/img/logos/learnjs-logo.svg)](https://learn.javascript.ru/)<br>
+[![MDN WebDocs logo](/img/logos/mdn-logo.svg)](https://developer.mozilla.org/ru/)<br>
+[![Edx logo](/img/logos/edx-logo.svg)](https://www.edx.org/)
 
 ## English
 I try to improve my English every day. Last test result on efset.org:<br>
