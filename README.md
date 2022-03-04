@@ -48,7 +48,7 @@ Distributed under the MIT License. See [LICENSE](LICENSE.txt) for more informati
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:p.kirillov2020@gmail.com)](mailto:p.kirillov2020@gmail.com)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555)](https://www.linkedin.com/in/pavel-kirillov-dobkir)
 
-Project Link: [https://github.com/dobkir/developer_landing](https://github.com/dobkir/my_cv-1)
+Project Link: [https://github.com/dobkir/my_cv-1](https://github.com/dobkir/my_cv-1)
 
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
